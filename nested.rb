@@ -95,6 +95,7 @@ def adding_matz
   }
    
   hash.merge(programmer_hash)
+  programmer_hash
 
 end
 
